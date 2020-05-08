@@ -8,7 +8,7 @@
 }
 #contenido{
     background-color:#DCEDC8;
-    background-image: linear-gradient( 320deg, rgba(139, 195, 74, 0.3), rgba(220, 237, 200, 0.9) ), url('icons8-leaf-64.png');
+    background-image: linear-gradient( 320deg, rgba(139, 195, 74, 0.3), rgba(220, 237, 200, 0.9) ), url('./icons8-leaf-64.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
